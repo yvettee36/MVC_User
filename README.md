@@ -1,4 +1,6 @@
 
+简书地址：http://www.jianshu.com/writer#/notebooks/11760359/notes/11344015
+
 <img src="/img/MVC流程.jpg">
 
 简单介绍下流程：浏览器发出请求，交给servlet，servlet收到请求后调用service组件进行处理，处理产生数据，数据从哪儿来，这里就调用dao,dao专门与数据库进行交互，数据一定要封装，在javabean组件中， servlet不适合作输出，转交给jsp,会把javabean存在域（request）里，jsp从request域里取出javabean的数据进行显示，将结果打给浏览器。
