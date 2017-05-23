@@ -1,5 +1,5 @@
 
-简书地址：http://www.jianshu.com/writer#/notebooks/11760359/notes/11344015
+简书地址：http://www.jianshu.com/p/8dfdd4aa48af
 
 <img src="/img/MVC流程.jpg">
 
